@@ -3,7 +3,7 @@
 
 ## Artefact 4: Workshop Personal Reflection
 
-**Workshop:** Week [2] | **Day/Date:** [23 July, Thursday ] | **Tutor:** [Umapathy Venugopa] | **Campus:** [Sydney]
+**Workshop:** Week [2] | **Day/Date:** [23 July, Thursday ] | **Tutor:** [Umapathy Venugopal] | **Campus:** [Sydney]
 
 
 <img width="500" height="667" alt="pic for etc2" src="https://github.com/user-attachments/assets/f103149b-d4da-485a-9579-88a879c65964" />
