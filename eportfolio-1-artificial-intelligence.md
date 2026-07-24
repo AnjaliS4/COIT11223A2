@@ -8,7 +8,7 @@
 
 <img width="500" height="667" alt="pic for etc2" src="https://github.com/user-attachments/assets/f103149b-d4da-485a-9579-88a879c65964" />
 
-<img width="667" height="500" alt="pic for etc" src="https://github.com/user-attachments/assets/17e6f9e8-cdd9-435a-8faa-d504ecfe78ac" />
+
 
 ### Summary of the artefact
 
