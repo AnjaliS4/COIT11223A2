@@ -1,7 +1,8 @@
 # e- portfolio-1-Artificial-Intelligence
 
 ## Artefact 1: Artificial Intelligence in Education – Opportunities and Challenges
-link 
+
+[artificial intelligence in education](https://www.youtube.com/watch?v=k7PvscqGD24)
 
 ### Summary of the artifact 
 The message of this video is that AI is making traditional classroom skills redundant, like calculators have taken the place of arithmetical skills and GPS navigation has taken the place of map reading. An adjunct professor argues that teachers should not be afraid of AI but should use it as a personal teacher and a research assistant, suggesting that today's students must learn to be flexible, think critically and be AI literate for a world dominated by AI.
