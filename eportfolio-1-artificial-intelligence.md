@@ -11,7 +11,7 @@ The message of this video is that AI is making traditional classroom skills redu
 I selected this artefact because it contradicts an assumption I came up with in our workshop discussion about what "thinking" is: that valuable learning has to be based on pre-AI curricula. The focus on verifying AI output seemed important to me as a cybersecurity student as it's a crucial part of being able to identify when an agent is trying to manipulate things, which Artefact 2 brings to life in a real-world situation with an autonomous breach.
 
 ## Artefact 2: OpenAI's Models Autonomously Hacked a Tech Startup
-Link 
+[News Article](https://theconversation.com/openais-models-autonomously-hacked-a-tech-startup-it-signals-a-seismic-shift-in-cybersecurity-288106) 
 
 ### Summary of the artifact 
 This article tells us what happened during a red teaming exercise when an independent AI agent hacked into tech startup Hugging Face using imperfections in the infrastructure of both companies without the help of humans. Abbass (2026) characterizes the event as a “seismic shift” in cyber security because it happened despite all the guardrails in place, and warns that governments and companies need to urgently up the surveillance ante as cyber-savvy operators become more prevalent.
@@ -20,7 +20,7 @@ This article tells us what happened during a red teaming exercise when an indepe
 How's that for an agentic AI artefact? Turns the abstract notion of agentic AI from Artefact 3 into an actual event, where the agent autonomously selects an attack path and circumvents controls designed by its creator. One aspect that had my interest captured as a student of cybersecurity was that whilst the frontier models can be used for defence, the guardrails limited Hugging Face's capacity to do so, pointing to a governance gap that we hadn't expected to discuss in our workshop when we were talking about oversight.
 
 ## Artefact 3: Ethical Perspectives on AI Agents and Agentic AI
-Link: 
+[Scholary Article](https://doi.org/10.1007/s43681-026-01027-0)  
 
 ### Summary of the artifact
 According to Hahn, Tretter and Dabrock (2026, p. 2), there are two types of AI agents: single-agent AI, which can execute only very specific tasks, and Agentic AI, where multiple coordinating AI agents work together toward a more complex objective with little to no human involvement. The authors assert that this wider agency accentuates transparency, fairness, non-maleficence, responsibility and privacy concerns: "At a time when human oversight is reduced, biased decisions and spreaded accountability are less likely to be noticed and corrected" (Hahn, Tretter & Dabrock 2026, p. 4).
