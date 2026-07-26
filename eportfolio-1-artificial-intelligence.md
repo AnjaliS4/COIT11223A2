@@ -39,6 +39,8 @@ This is a peer-reviewed article that provides the theoretical vocabulary, such a
 
 <img width="500" height="667" alt="pic for etc2" src="https://github.com/user-attachments/assets/f103149b-d4da-485a-9579-88a879c65964" />
 
+<img width="650" height="500" alt="pic for etc" src="https://github.com/user-attachments/assets/9b5dba5e-89d4-4e8c-a62a-7aa9270913c5" />
+
 
 ### Summary of the artefact
 
