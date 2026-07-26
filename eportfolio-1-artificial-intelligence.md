@@ -42,3 +42,10 @@ We talked about what thinking is and how it can happen outside of biology, outsi
 ### Justification on why I chose the artefact
 
 This discussion transformed my understanding of AI from a binary "does or doesn't think" question to the kinds of things it can do and what it needs to be supervised by which is the point of Artefact 3 in the form of "agentic" theory, and of Artefact 2 in the form of a real hack. It also put my assumption of non-understanding as non-dangerous into question as Artefact 2 demonstrates that it was possible to breach a large company without any understanding at all.
+
+## References 
+Abbass, H 2026, 'OpenAI's models autonomously hacked a tech startup. It signals a seismic shift in cybersecurity', The Conversation, 23 July, viewed 26 July 2026, https://theconversation.com/openais-models-autonomously-hacked-a-tech-startup-it-signals-a-seismic-shift-in-cybersecurity-288106.
+
+Hahn, M, Tretter, M & Dabrock, P 2026, 'Ethical perspectives on AI Agents and Agentic AI', AI and Ethics, vol. 6, article 218. DOI: https://doi.org/10.1007/s43681-026-01027-0
+
+IBM Technology 2026, Artificial intelligence in education: opportunities and challenges, video, viewed 26 July 2026, https://www.youtube.com/watch?v=k7PvscqGD24.
