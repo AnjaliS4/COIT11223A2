@@ -1,13 +1,13 @@
+# e- portfolio-1-Artificial-Intelligence
 
 
 
 ## Artefact 4: Workshop Personal Reflection
 
-**Workshop:** Week [2] | **Day/Date:** [23 July, Thursday ] | **Tutor:** [Umapathy Venugopal] | **Campus:** [Sydney]
+**Workshop: Week 2** | **3 July, Thursday**| **Tutor: Umapathy Venugopal** | **Campus:Sydney**
 
 
 <img width="500" height="667" alt="pic for etc2" src="https://github.com/user-attachments/assets/f103149b-d4da-485a-9579-88a879c65964" />
-
 
 
 ### Summary of the artefact
@@ -16,4 +16,5 @@ We talked about what thinking is and how it can happen outside of biology, outsi
 
 ### Justification on why I chose the artefact
 
+-- i dont like this justification edit this based on the example templete 
 I was unable to find a resolution to this question and I believe that is the point. While loosely based on the function of neurons, as someone who processes symbols without understanding them, the process of "thinking" does not feel plausible as with the philosopher John Searle's Chinese room thought experiment. I am a future cybersecurity professional, and that distinction is important to me: I should be more trusting of an AI's output if it reasoning, than if it is just predicting convincingly.
