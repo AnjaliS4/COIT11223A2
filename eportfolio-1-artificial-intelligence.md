@@ -1,5 +1,8 @@
 # e- portfolio-1-Artificial-Intelligence
 
+**Unit:** COIT11223 – ICT Ethics and Governance in Society
+**Workshop:** Week 2 | Thursday, 3 July | Tutor: Umapathy Venugopal | Campus: Sydney
+
 ## Artefact 1: Artificial Intelligence in Education – Opportunities and Challenges
 
 [artificial intelligence in education](https://www.youtube.com/watch?v=k7PvscqGD24)
