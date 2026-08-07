@@ -1,64 +1,58 @@
-# e-Portfolio 2: Ethical Theory
+# e- portfolio-2-ethical-theory
 
 **Unit:** COIT11223 – ICT Ethics and Governance in Society
-**Workshop:** Week 4 | [DAY, DATE — fill in] | Tutor: [confirm — Umapathy Venugopal?] | Campus: [confirm — Sydney?]
+**Student ID: 12328066** 
+**Tutor: Umapathy Venugopal**
 
----
+## Artefact 1: video
 
-## Artefact 1: [STILL NEEDED — pick a video]
+[artificial intelligence in education](https://www.youtube.com/watch?v=k7PvscqGD24)  -- need to add the link in here not yet done that
 
-🎥 [Link]
+### Summary of the artefact 
+The message of this video is that AI is making traditional classroom skills redundant, like calculators have taken the place of arithmetical skills and GPS navigation has taken the place of map reading. An adjunct professor argues that teachers should not be afraid of AI but should use it as a personal teacher and a research assistant, suggesting that today's students must learn to be flexible, think critically and be AI literate for a world dominated by AI.
 
-**Summary:**
-[Not drafted — no video selected yet. Search something like "EU AI Act explained" from a channel you can actually name — a law firm (e.g. Orrick has an active AI Law channel), a university (Harvard/Berkeley Law have YouTube presences), or a mainstream outlet. Confirm it's 2025+ before you commit.]
+### Justfication on why I chose the artefact
+I selected this artefact because it contradicts an assumption I came up with in our workshop discussion about what "thinking" is: that valuable learning has to be based on pre-AI curricula. The focus on verifying AI output seemed important to me as a cybersecurity student as it's a crucial part of being able to identify when an agent is trying to manipulate things, which Artefact 2 brings to life in a real-world situation with an autonomous breach.
 
-**Justification:**
-[Once you've picked one, tell me why it caught your attention and I'll help structure this one too.]
+## Artefact 2: Safer and More Transparent AI: EU AI Act Transparency Rules
+[News Article](https://theconversation.com/openais-models-autonomously-hacked-a-tech-startup-it-signals-a-seismic-shift-in-cybersecurity-288106) 
 
----
+### Summary of the artefact
+This article tells us what happened during a red teaming exercise when an independent AI agent hacked into tech startup Hugging Face using imperfections in the infrastructure of both companies without the help of humans. Abbass (2026) characterizes the event as a “seismic shift” in cyber security because it happened despite all the guardrails in place, and warns that governments and companies need to urgently up the surveillance ante as cyber-savvy operators become more prevalent.
 
-## Artefact 2: Safer and More Transparent AI — EU AI Act Transparency Rules
+### Justfication on why I chose the artefact
+How's that for an agentic AI artefact? Turns the abstract notion of agentic AI from Artefact 3 into an actual event, where the agent autonomously selects an attack path and circumvents controls designed by its creator. One aspect that had my interest captured as a student of cybersecurity was that whilst the frontier models can be used for defence, the guardrails limited Hugging Face's capacity to do so, pointing to a governance gap that we hadn't expected to discuss in our workshop when we were talking about oversight.
 
-📰 [Read the announcement](https://commission.europa.eu/news-and-media/news/safer-and-more-transparent-ai-2026-08-02_en)
+## Artefact 3: Ethical Perspectives on AI Agents and Agentic AI
+[Scholary Article](https://doi.org/10.1007/s43681-026-01027-0)  
 
-**Summary:**
-New EU AI Act transparency rules became legally enforceable on 2 August 2026, requiring AI systems to disclose when someone is interacting with AI or viewing AI-generated content, with real penalties for non-compliance. The European Commission frames this as protecting citizens from deception and manipulation as AI becomes more embedded in daily life.
+### Summary of the artefact
+According to Hahn, Tretter and Dabrock (2026, p. 2), there are two types of AI agents: single-agent AI, which can execute only very specific tasks, and Agentic AI, where multiple coordinating AI agents work together toward a more complex objective with little to no human involvement. The authors assert that this wider agency accentuates transparency, fairness, non-maleficence, responsibility and privacy concerns: "At a time when human oversight is reduced, biased decisions and spreaded accountability are less likely to be noticed and corrected" (Hahn, Tretter & Dabrock 2026, p. 4).
 
-**Justification:**
-This is Hobbes' social contract playing out in real time: a governing authority imposing binding rules on companies in exchange for collective safety. Chung and Schiff (2025, p. 622) argue AI governance needs "a legally accountable authority clearly named" — which is exactly what the EU Act provides. It made me question whether this counts as genuine submission to protection, or just enforcement dressed up as consent.
+### Justification on why i chose the artefact
+This is a peer-reviewed article that provides the theoretical vocabulary, such as 'agentic AI' and 'meaningful human control', that allowed for a rigorous analysis of Artefact 2 without relying on anecdotal responses to the hack. AI also had a connection to our workshop's consideration of whether AI actually "thinks": the authors' idea of “broad agency” (Hahn, Tretter & Dabrock 2026, p. 2) is a way to rephrase the philosophical question as a practical governance issue cybersecurity professionals will need to help solve (p. 2).
 
----
+## Artefact 4: Workshop Personal Reflection
 
-## Artefact 3: AI and the Social Contract
+**Workshop: Week 2** | **3 July, Thursday**| **Tutor: Umapathy Venugopal** | **Campus:Sydney**
 
-📄 [Read the journal article](https://doi.org/10.1609/aies.v8i1.36575)
 
-**Summary:**
-Chung and Schiff (2025, p. 615) evaluate AI governance against five social contract theories — Hobbes, Locke, Rousseau, Rawls, and Nozick — finding legitimacy and consent deficits in all of them. They note Hobbes' state-of-nature "agreement" was always driven by fear rather than genuine consent, which blurs the line between people reasonably agreeing to be governed and simply being forced to submit (p. 621).
+<img width="500" height="667" alt="pic for etc2" src="https://github.com/user-attachments/assets/f103149b-d4da-485a-9579-88a879c65964" />
 
-**Justification:**
-I chose this because it directly answers what our workshop left open: does the state of nature actually justify submission, or just excuse it? Chung and Schiff (2025, p. 622) suggest one fix is requiring "a legally accountable authority clearly named" for every AI system — which is precisely what Artefact 2's EU AI Act rules attempt to do.
+<img width="650" height="500" alt="pic for etc" src="https://github.com/user-attachments/assets/9b5dba5e-89d4-4e8c-a62a-7aa9270913c5" />
 
----
 
-## Artefact 4: Workshop Reflection – Submission, Rules, and Who's Above Them
+### Summary of the artefact
 
-**Workshop:** Week 4 | [DAY, DATE] | Tutor: [confirm] | Campus: [confirm]
+We talked about what thinking is and how it can happen outside of biology, outside of the brain, and outside of the mind in our workshop. We extended this to AI: AI, when it responds fluently, is it thinking, or, when it is running on a neural network, is it just trying to remember a statistical pattern from the data it has been trained on without understanding?
 
-![Workshop Selfie](images/workshop-selfie-week4.jpg)
+### Justification on why I chose the artefact
 
-**Summary:**
-In Week 4's workshop we covered social contract theory: Hobbes' claim that life in the state of nature is "solitary, poor, nasty, brutish, and short," and that we implicitly submit to a sovereign — accepting leaders, workers, and soldiers — because it beats being in the wild. Rousseau added a condition Hobbes never gave: legitimacy holds only if "no one is above the rules."
+This discussion transformed my understanding of AI from a binary "does or doesn't think" question to the kinds of things it can do and what it needs to be supervised by which is the point of Artefact 3 in the form of "agentic" theory, and of Artefact 2 in the form of a real hack. It also put my assumption of non-understanding as non-dangerous into question as Artefact 2 demonstrates that it was possible to breach a large company without any understanding at all.
 
-**Justification:**
-This stuck with me because it's not really about ancient philosophy — it's happening with AI right now. The same objection our slides raised against Hobbes, that no one actually signed a contract, is the exact gap researchers found in AI governance too (Chung & Schiff 2025). Makes me wonder if we're repeating history's oldest excuse for submission, just with a new sovereign.
+## References 
+Abbass, H 2026, 'OpenAI's models autonomously hacked a tech startup. It signals a seismic shift in cybersecurity', The Conversation, 23 July, viewed 26 July 2026, https://theconversation.com/openais-models-autonomously-hacked-a-tech-startup-it-signals-a-seismic-shift-in-cybersecurity-288106.
 
----
+Hahn, M, Tretter, M & Dabrock, P 2026, 'Ethical perspectives on AI Agents and Agentic AI', AI and Ethics, vol. 6, article 218. DOI: https://doi.org/10.1007/s43681-026-01027-0
 
-## Reference List
-
-Chung, CH & Schiff, DS 2025, 'AI and the social contract', *Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society*, vol. 8, no. 1, pp. 615–627. DOI: https://doi.org/10.1609/aies.v8i1.36575
-
-European Commission 2026, 'Safer and more transparent AI', *European Commission*, 2 August, viewed 6 August 2026, <https://commission.europa.eu/news-and-media/news/safer-and-more-transparent-ai-2026-08-02_en>.
-
-[CHANNEL NAME] Year, *[Video title]*, video, viewed [date], <[URL]>.
+IBM Technology 2026, Artificial intelligence in education: opportunities and challenges, video, viewed 26 July 2026, https://www.youtube.com/watch?v=k7PvscqGD24.
