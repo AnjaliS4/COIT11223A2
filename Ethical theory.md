@@ -44,7 +44,11 @@ I selected this because it directly addresses that which our workshop left unans
 
 **Workshop:** Week 4 | Thursday, 6 August | Campus: Sydney
 
-![Workshop Selfie](images/workshop-selfie-week4.jpg)
+<img width="1280" height="960" alt="portfolio a " src="https://github.com/user-attachments/assets/f3c85da3-dd6e-4c40-87f6-3e20ef1043f8" />
+
+
+<img width="1280" height="960" alt="portfolio b" src="https://github.com/user-attachments/assets/828333dc-ab1b-43a9-af04-7126fcd16541" />
+
 
 ### Summary of the artefact
 
@@ -61,3 +65,12 @@ Chung, CH & Schiff, DS 2025, 'AI and the social contract', *Proceedings of the A
 European Commission 2026, 'Safer and more transparent AI', *European Commission*, 2 August, viewed 6 August 2026, <https://commission.europa.eu/news-and-media/news/safer-and-more-transparent-ai-2026-08-02_en>.
 
 CMS UK 2024, *The EU Data Act and the Artificial Intelligence (AI) Act: new laws on data*, video, 10 December, viewed 6 August 2026, <https://www.youtube.com/watch?v=u37w2519HK0>.
+
+
+
+references: 
+Chung, CH & Schiff, DS 2025, 'AI and the social contract', *Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society*, vol. 8, no. 1, pp. 615–627. DOI: https://doi.org/10.1609/aies.v8i1.36575 
+
+European Commission 2026, 'Safer and more transparent AI', *European Commission*, 2 August, viewed 6 August 2026, https://commission.europa.eu/news-and-media/news/safer-and-more-transparent-ai-2026-08-02_en.
+ 
+CMS UK 2024, *The EU Data Act and the Artificial Intelligence (AI) Act: new laws on data*, video, 10 December, viewed 6 August 2026, https://www.youtube.com/watch?v=u37w2519HK0. 
