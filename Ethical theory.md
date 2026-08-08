@@ -44,10 +44,10 @@ I selected this because it directly addresses that which our workshop left unans
 
 **Workshop:** Week 4 | Thursday, 6 August | Campus: Sydney
 
-<img width="1280" height="960" alt="portfolio a " src="https://github.com/user-attachments/assets/f3c85da3-dd6e-4c40-87f6-3e20ef1043f8" />
+<img width="1100" height="900" alt="portfolio a " src="https://github.com/user-attachments/assets/f3c85da3-dd6e-4c40-87f6-3e20ef1043f8" />
 
 
-<img width="1280" height="960" alt="portfolio b" src="https://github.com/user-attachments/assets/828333dc-ab1b-43a9-af04-7126fcd16541" />
+<img width="1100" height="900" alt="portfolio b" src="https://github.com/user-attachments/assets/828333dc-ab1b-43a9-af04-7126fcd16541" />
 
 
 ### Summary of the artefact
