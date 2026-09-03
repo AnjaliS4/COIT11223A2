@@ -14,6 +14,7 @@
 
 
 
+
 **Summary**
 This video explains the four main categories of IP protection: patents (novel inventions, 20 years), trademarks (brand identifiers, renewable 10-year terms), copyright (creative works, life plus 70 years) and trade secrets (confidential know-how, no time limit). It frames each as a different trade-off between rewarding an individual creator and eventually returning the work to public use.
 
