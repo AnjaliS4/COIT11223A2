@@ -10,6 +10,7 @@
 ## Artefact 1: The Four Pillars of Intellectual Property
 
 🎥 **Watch the video:** *The four pillars of intellectual property: patents, trademarks, copyright, trade secrets*
+[artificial intelligence in education](https://www.youtube.com/watch?v=k7PvscqGD24)
 
 
 
