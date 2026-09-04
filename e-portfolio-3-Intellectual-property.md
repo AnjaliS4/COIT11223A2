@@ -32,9 +32,10 @@ Ethically, the question here isn’t so much whether the copying was authorized 
 -- pictures of the artefact 
 ### Summary of the artefact
 Courts have repeatedly been unwilling to recognize non-humans as authors and Elmahjub(2025, p.2) suggests that the same preceded from Naruto vs. Slater, which we discussed in our workshop, applies to AI as well. The article argues that AI- generated content is not necessarily creative, but it still falls into the public domain because it is generated through probability, not human expression, and copyright belongs only to the original creator’s own work, specifically their creative edits to AI-generated content (Elmahjub 2025, p.8). 
-The monkey selfie case made me see that this is not an isolated, quirky case, it is a principle that courts have been applying to AI recently: no legal person, no copyright. It reinforced the stance I presented in the workshop discussion: ownership should be tied to the extent of creative decision-making that was truly the human’s own, not simply the human who set the output in motion. 
+
 
 ### Justification on why I choose the artefact 
+This article made me realise that the money selfie case is not an isolated, quirky case, it is a principle that courts have been applying to AI recently: no legal person, no copyright. It reinforced the stance I presented in the workshop discussion: ownership should be tied to the extent of creative decision-making that was truly the human’s own, not simply the human who set the output in motion. 
 The reason I chose this artefact is because I think this has ethical considerations for accountability as well. That is, if AI is used to produce harmful content involving a real person, the culpability should lie with the human who directed this, not the AI, because it cannot be held legally or morally responsible. For my future career in ICT, this shapes how I approach credit for AI-assisted creations: I would clearly credit the human part of the creation, while acknowledging that AI involvement is not an excuse to avoid responsibility for how the work is used.  
 
 ## Artefact 4: 
