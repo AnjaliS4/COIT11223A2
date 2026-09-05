@@ -40,8 +40,12 @@ The reason I chose this artefact is because I think this has ethical considerati
 
 ## Artefact 4: 
 **Workshop:** Week 7 | Thursday, 3 September | Campus: Sydney
--- link of the artefact 
--- pictures of the artefact 
+
+
+<img width="1200" height="1000" alt="worskshop 1" src="https://github.com/user-attachments/assets/60ca19b4-20d5-43b8-883a-eb26bf227408" />
+
+<img width="1200" height="1000" alt="workshop 2" src="https://github.com/user-attachments/assets/53ad80cf-9139-48da-ae03-72dac351d0f4" />
+
 ### Summary of the artefact
 In our workshop, we first gave a brief overview of the history of copyright creep in the USA, before looking at the monkey selfie dispute: the camera was set up by photographer David Slater, but the macaque pressed the shutter, and courts rules that animals cannot hold copyright because the law is written for humans (Venugopal 2026). The tutor then extended this to generative AI: if it isn’t owned by a human, who owns an AI-generated image, no one the prompter, or the AI developer? 
 
