@@ -10,7 +10,7 @@
 
 <img width="515" height="327" alt="image" src="https://github.com/user-attachments/assets/2e88e4d6-0da0-41ad-86ee-4ece8aa3b166" />
 
-<img width="399" height="501" alt="images" src="https://github.com/user-attachments/assets/fbf8105c-0ed8-4ef3-a215-f25c22fe4929" />
+
 
 ### Summary of the artefact
 This video covers the four types of intellectual property protection: patents for novel inventions (life of 20 years); trademarks for brand identifiers (renewable for 10 years); for know-how (no explanation). It positions each as a distinct balancing act between rewarding a single creator and, over time, returning the creation to public (PatentPC 2026). 
