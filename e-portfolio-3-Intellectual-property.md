@@ -10,8 +10,6 @@
 
 <img width="515" height="327" alt="image" src="https://github.com/user-attachments/assets/2e88e4d6-0da0-41ad-86ee-4ece8aa3b166" />
 
-
-
 ### Summary of the artefact
 This video covers the four types of intellectual property protection: patents for novel inventions (life of 20 years); trademarks for brand identifiers (renewable for 10 years); for know-how (no explanation). It positions each as a distinct balancing act between rewarding a single creator and, over time, returning the creation to public (PatentPC 2026). 
 
@@ -49,11 +47,7 @@ The reason I chose this artefact is because I think this has ethical considerati
 ## Artefact 4: Workshop Reflection- Who owns an AI-generated Image?
 **Workshop:** Week 7 | Thursday, 3 September | Campus: Sydney
 
-
 <img width="1200" height="1000" alt="worskshop 1" src="https://github.com/user-attachments/assets/60ca19b4-20d5-43b8-883a-eb26bf227408" />
-
-
-
 <img width="1200" height="1000" alt="workshop 2" src="https://github.com/user-attachments/assets/53ad80cf-9139-48da-ae03-72dac351d0f4" />
 
 ### Summary of the artefact
