@@ -1,14 +1,8 @@
-# e-Portfolio 4: Censorship and Government
 
-**Unit:** COIT11223 – ICT Ethics and Governance in Society
-**Student ID:** 12328066
-**Tutor:** Umapathy Venugopal
 
 ## Artefact 1: eSafety Commissioner vs X (2024)
 
 [eSafety drops case against Elon Musk's X over church stabbing videos](https://www.abc.net.au/news/2024-06-05/esafety-elon-musk-x-church-stabbing-videos-court-case/103937152)
-
--- IMAGE FOR THE ARTEFACT
 
 ### Summary of the artefact
 
@@ -16,13 +10,11 @@ In 2024, Australia's eSafety Commissioner ordered X (formerly Twitter) to remove
 
 ### Justification on why I chose the artefact
 
-This case sets up the whole portfolio's question for me: if even a national government can't force a global platform to remove harmful content everywhere, who actually holds power over the internet? It directly connects to the Daily Stormer case in Artefact 4 — there, a private company (Cloudflare) had more practical control over content than any single government did here.
+Ethically, this case is really Mill's Harm Principle in action (Quinn 2020): the eSafety Commissioner argued the stabbing footage caused real harm by inciting further violence, which is exactly the kind of harm Mill says justifies restricting expression rather than simply disliking content. Before this, I assumed "censorship" was inherently the wrong side of any argument; this case changed that — I now think the ethical question isn't whether to restrict content, but whether the restriction is proportionate to a genuine, demonstrable harm rather than just discomfort. Going forward, especially as I move into cybersecurity, I want to apply that same harm-based test rather than a gut reaction whenever I'm asked to help enforce or challenge a content policy at work.
 
 ## Artefact 2: Nepal's Social Media Ban (2025)
 
 [Nepal lifts social media ban after 19 killed in protests against corruption](https://www.aljazeera.com/news/2025/9/9/nepal-lifts-social-media-ban-after-19-killed-in-protests-report)
-
--- image for the artefact
 
 ### Summary of the artefact
 
@@ -30,13 +22,11 @@ On 4 September 2025, Nepal's government banned 26 social media platforms, includ
 
 ### Justification on why I chose the artefact
 
-I chose this because it's personal — this is my home country, and it shows how badly a government's attempt at "protecting society online" can misjudge public trust. Unlike Australia's cautious, court-tested approach in Artefact 1, Nepal's ban was blunt and unaccountable, and it cost lives before it was reversed. It's the clearest example in this portfolio of censorship escalating rather than resolving a problem.
+Ethically, Nepal's ban fails Mill's test in the opposite direction: it restricted an entire population's expression to solve a narrow registration and tax problem, with no real harm threshold behind it — precisely the "backward step" Kant warns against when he argues that obstacles to people using their own reason should be removed, not reinstated (Quinn 2020). This is personal for me, since it's my home country, and it changed how I read government "protection" language: I used to take safety justifications for internet restrictions fairly literally, but seeing my own country's government use that language to mask a revenue and control problem makes me read every future "protecting the public" justification far more critically, including in Australia.
 
 ## Artefact 3: Australia's Under-16 Social Media Ban (2025–2026)
 
-[High Court agrees to hear teenagers' challenge to under 16s social media ban](https://www.abc.net.au/news/2025-12-04/court-agrees-hear-teens-challenge-to-under-16-social-media-ban/106103338) 
-
--- image for the artefact
+[High Court agrees to hear teenagers' challenge to under 16s social media ban](https://www.abc.net.au/news/2025-12-04/court-agrees-hear-teens-challenge-to-under-16-social-media-ban/106103338)
 
 ### Summary of the artefact
 
@@ -44,13 +34,13 @@ On 10 December 2025, Australia introduced a world-first ban on social media acco
 
 ### Justification on why I chose the artefact
 
-I picked this because it's genuinely unresolved — unlike the other two artefacts, there's no ending yet. It forces me to actually answer the workshop's question myself instead of just describing how it played out elsewhere: is protecting under-16s from social media a legitimate use of government power, or does it cross into restricting a freedom just because the people affected can't vote?
+Ethically, this is where Kant and Mill actually point in different directions, and I chose it because that tension is unresolved for me. Kant would likely see an age-based ban as removing a group's capacity to use their own reason before they've had the chance to develop it; Mill's Harm Principle could still justify it if the harm to children is severe and demonstrable enough (Quinn 2020). Before researching this, I assumed protecting kids online was ethically uncontroversial; now I see it as a genuine dispute between two defensible ethical positions, not a settled legal technicality. Going forward, I want to apply that same "which principle actually fits this harm" test before assuming any protective policy — for kids, workers, or users generally — is automatically the ethical choice.
 
 ## Artefact 4: Workshop Reflection – When a Platform Claims Neutrality
 
 **Workshop:** Week 9 | Thursday, 17 September | Campus: Sydney
 
--- workshop image 
+![Workshop Selfie](images/workshop-selfie-week9.jpg)
 
 ### Summary of the artefact
 
@@ -58,14 +48,16 @@ In Week 9's workshop we examined the Daily Stormer case: after the neo-Nazi site
 
 ### Justification on why I chose the artefact
 
-This changed my view because it exposed a gap between principle and PR: Cloudflare's stated neutrality gave Daily Stormer 
-a platform for years, and what actually triggered the drop wasn't the hate itself but being publicly framed as endorsing it. If Cloudflare genuinely opposed the ideology, 
-the platform shouldn't have been there to claim in the first place — which makes the decision feel more like reputation management than principled harm prevention.
+This changed my view because it exposed a gap between principle and PR that I hadn't considered before: Cloudflare's stated neutrality gave Daily Stormer a platform for years, and what actually triggered the drop wasn't the hate itself but being publicly framed as endorsing it — which is closer to reputation management than Mill's harm-based justification for restricting expression (Quinn 2020). I used to think "not censoring based on politics" was automatically the more ethical position for a company to take; this case showed me that neutrality can itself enable harm if it is applied without ever asking whether real damage is occurring. Moving forward, especially working in tech, I want to judge platform decisions by whether they are responding to actual harm, not by whether "neutral" or "decisive" sounds better publicly.
 
 ## Reference List
 
-Evans, J & Butler, J 2024, 'eSafety drops case against Elon Musk's X over church stabbing videos', *ABC News*, 4 June, viewed 17 September 2026, <https://www.abc.net.au/news/2024-06-05/esafety-elon-musk-x-church-stabbing-videos-court-case/103937152>.
+ABC News 2025, 'High Court agrees to hear teenagers' challenge to under 16s social media ban', *ABC News*, 4 December, viewed 17 September 2026, <https://www.abc.net.au/news/2025-12-04/court-agrees-hear-teens-challenge-to-under-16-social-media-ban/106103338>.
 
 Al Jazeera 2025, 'Nepal lifts social media ban after 19 killed in protests against corruption', *Al Jazeera*, 9 September, viewed 17 September 2026, <https://www.aljazeera.com/news/2025/9/9/nepal-lifts-social-media-ban-after-19-killed-in-protests-report>.
 
-ABC News 2025, 'High Court agrees to hear teenagers' challenge to under 16s social media ban', *ABC News*, 4 December, viewed 17 September 2026, <https://www.abc.net.au/news/2025-12-04/court-agrees-hear-teens-challenge-to-under-16-social-media-ban/106103338>.
+Evans, J & Butler, J 2024, 'eSafety drops case against Elon Musk's X over church stabbing videos', *ABC News*, 4 June, viewed 17 September 2026, <https://www.abc.net.au/news/2024-06-05/esafety-elon-musk-x-church-stabbing-videos-court-case/103937152>.
+
+Quinn, MJ 2020, *Ethics for the Information Age*, 8th edn, Pearson, United States.
+
+Venugopal, U 2026, *COIT11223 ICT Ethics and Governance in Society: Week 9 workshop – Censorship and Government*, workshop presentation, Central Queensland University, 17 September.
