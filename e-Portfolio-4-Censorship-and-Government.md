@@ -8,7 +8,8 @@
 
 [eSafety drops case against Elon Musk's X over church stabbing videos](https://www.abc.net.au/news/2024-06-05/esafety-elon-musk-x-church-stabbing-videos-court-case/103937152)
 
-<img width="408" height="490" alt="image" src="https://github.com/user-attachments/assets/ee71bfc4-6841-4c9a-b797-6178d546b005" />
+<img width="864" height="612" alt="image" src="https://github.com/user-attachments/assets/e78db9af-3eee-4302-941e-439cf1b38f44" />
+
 
 ### Summary of the artefact
 Australia's eSafety Commissioner demanded that X (formerly Twitter) delete all videos of the Wakeley church stabbing worldwide, under the Online Safety Act. 
@@ -24,7 +25,8 @@ Moving forward, specifically in my cyber security journey, whenever I am asked t
 
 [Nepal lifts social media ban after 19 killed in protests against corruption](https://www.aljazeera.com/news/2025/9/9/nepal-lifts-social-media-ban-after-19-killed-in-protests-report)
 
-<img width="946" height="631" alt="image" src="https://github.com/user-attachments/assets/1a9a9de6-0fbe-4176-ab21-528654bad40f" />
+<img width="965" height="534" alt="image" src="https://github.com/user-attachments/assets/50502bf9-7d0f-4025-9b40-32fe09a9d401" />
+
 
 
 ### Summary of the artefact
@@ -41,7 +43,8 @@ I used to take safety justifications for internet restrictions fairly literally,
 
 [High Court agrees to hear teenagers' challenge to under 16s social media ban](https://www.abc.net.au/news/2025-12-04/court-agrees-hear-teens-challenge-to-under-16-social-media-ban/106103338)
 
-<img width="399" height="501" alt="image" src="https://github.com/user-attachments/assets/67cf888e-7798-4350-a4f0-e5f0476d90c5" />
+<img width="936" height="811" alt="image" src="https://github.com/user-attachments/assets/03cff52d-af46-4f0a-8fd8-6b673494e8fc" />
+
 
 
 ### Summary of the artefact
