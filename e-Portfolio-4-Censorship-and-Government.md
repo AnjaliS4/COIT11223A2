@@ -68,7 +68,7 @@ In Week 9's workshop we looked at the Daily Stormer case: the neo-Nazi site clai
 It was the first time Cloudflare had ever removed a customer because of political pressure.
 
 ### Justification on why I chose the artefact
-neutrality gave Daily Stormer a platform for years, and it wasn't the hate itself that caused the drop, it was being publicly framed as endorsing it, which is closer to reputation management than to Mill's harm-based justification for restricting expression (Quinn 2020). 
+Cloudflare's commitment to neutrality gave Daily Stormer a platform for years, and it wasn't the hate itself that caused the drop, it was being publicly framed as endorsing it, which is closer to reputation management than to Mill's harm-based justification for restricting expression (Quinn 2020). 
 I used to believe that a company staying neutral on political and ideological viewpoints was automatically the more ethical choice; this case showed me that neutrality can itself enable harm if it's applied without ever asking whether real damage is being done. 
 Moving forward, particularly in tech, I'll judge platform decisions by whether they're actually responding to real harm, not by whether "neutral" or "decisive" sounds better in the news.
 
