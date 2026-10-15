@@ -29,7 +29,9 @@ I selected this because it shows ADM harm still happening after Robodebt. The la
 
 
 ## Artefact 2: The Automated Decision-making Better Practice Guide (March 2025) 
--- picture 
+
+<img width="516" height="760" alt="image" src="https://github.com/user-attachments/assets/fd28990b-5a73-4d5e-bd9b-4b221669fd62" />
+
 
 [Decision making better oractice guide](https://www.ombudsman.gov.au/__data/assets/pdf_file/0025/317437/Automated-Decision-Making-Better-Practice-Guide-March-2025.pdf)
 ### Summary of the artefact
@@ -40,7 +42,11 @@ I picked this to see what good ADM in the Australian government is supposed to l
 
 
 ## Artefact 3: Carney (2026) on access to justice after the Robodebt Royal Commission
--- picture 
+
+<img width="453" height="648" alt="image" src="https://github.com/user-attachments/assets/84b3d5a5-3597-481a-8079-f62b27689691" />
+
+<img width="437" height="528" alt="image" src="https://github.com/user-attachments/assets/5b44607d-1f5b-433f-8015-f2614cb38110" />
+
 
 [Carney (2026) on access to justice after the Robodebt Royal Commission](https://law.unimelb.edu.au/__data/assets/pdf_file/0006/5630883/Carney-MULR-10.pdf)
 ### Summary of the artefact
@@ -50,7 +56,11 @@ In this journal article, Terry Carney tests whether the reforms that followed th
 I selected a scholarly source to go beyond the news. It changed my view that "appeals fix the problem". Appeals rely on people having the time and strength to use them, so the less well-off may end up bearing the harm. That connects to Rawls's difference principle. It also connects to ACS clause 1.2.1, because protecting the public interest means preventing harm, not only fixing it for individuals.
 
 ## Artedact 4: New Privacy Act rules on ADM start 10 December 2026
--- picture 
+
+ <img width="1753" height="493" alt="image" src="https://github.com/user-attachments/assets/a640f243-8ef0-4150-94f9-e39b89c0f59a" />
+
+ <img width="1116" height="492" alt="image" src="https://github.com/user-attachments/assets/1de4c426-b2a4-4ea5-a439-27ee12349c4e" />
+
 
 [New Privacy Act rules on ADM start 10 December 2026](https://www.allens.com.au/insights-news/insights/2026/06/automated-decision-making-transparency-what-app-entities-need-to-know-about-the-app-1-amendments/)
 ### Summary of the artefact
@@ -60,7 +70,12 @@ This article was published by Allens on 10 June 2026 and outlines the changes in
 I picked this because it is current and shows the law catching up with ADM. I am a cybersecurity student, and I might be the one who has to document these systems. It relates to ACS clause 1.2.1(g) on privacy (Australian Computer Society 2014, p. 6). It also raises a Kantian question: is it enough to tell people if they have no right to challenge?
 
 ## Artefact 5: The Dutch childcare benefits scandal and the burden of proof
--- picture 
+
+<img width="1390" height="421" alt="image" src="https://github.com/user-attachments/assets/bc76d196-9770-4203-8418-af2bd629826b" />
+
+<img width="1116" height="797" alt="image" src="https://github.com/user-attachments/assets/a28c3897-3784-420f-b6f5-29a7fb55d784" />
+
+
 
 [RSM Discovery article](https://rsm.nl/discovery/2025/shifting-the-burden-of-proof-back-to-ai/)
 ### Summary of the artefact
@@ -70,7 +85,9 @@ This article was published on 14 January 2025 by the Rotterdam School of Managem
 I selected the Netherlands as my overseas example because the pattern seemed familiar from Robodebt: the automated system accused people, and they had to prove their innocence. Its suggestion of bias testing is the same as my decision in Question 1. It is also a clear case of using people as a means, which Kantianism opposes, and of a failure of the ACS public interest value.
 
 ## Artefact 6:Amnesty International on Denmark's automated welfare state
--- picture 
+
+<img width="1177" height="816" alt="image" src="https://github.com/user-attachments/assets/678c3c92-78fe-41a3-a973-57935731ddc3" />
+
 
 [Denmark's welfare fraud algorithms](https://www.amnestyusa.org/press-releases/denmark-eu-ai-powered-welfare-system-fuels-mass-surveillance-and-risks-discriminating-against-marginalized-groups/)
 
