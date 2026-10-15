@@ -1,4 +1,4 @@
-# e-Portfolio 4: Censorship and Government
+# e-Portfolio 5: Automated Decision-Making in Government
 
 **Unit:** COIT11223 – ICT Ethics and Governance in Society
 **Student ID:** 12328066
@@ -76,3 +76,16 @@ I picked a second overseas case to show that this is not only a Dutch problem. T
 The same theme comes up in all six of these artefacts: ADM is not neutral, and it is the least powerful who suffer most. Australia has good guidance (Artefacts 2 and 4) but still has failures (Artefact 1), and Carney shows that fixing individual cases is not enough (Artefact 3). The Netherlands and Denmark show the same risks overseas (Artefacts 5 and 6). As an ICT professional, I will ask who is affected, check that the system follows the current law, test it for bias before launch and keep a human involved in decisions that affect people's lives.
 
 ## References 
+Amnesty International 2024, Denmark: AI-powered welfare system fuels mass surveillance and risks discriminating against marginalized groups – report, press release, 13 November, viewed 15 October 2026, https://www.amnestyusa.org/press-releases/denmark-eu-ai-powered-welfare-system-fuels-mass-surveillance-and-risks-discriminating-against-marginalized-groups/
+
+Australian Computer Society 2014, ACS Code of Professional Conduct, version 2.1, viewed 14 October 2026, https://www.acs.org.au/content/dam/acs/rules-and-regulations/Code-of-Professional-Conduct_v2.1.pdf
+
+Carney, T 2026, 'Access to welfare justice after the Robodebt Royal Commission: the case for systemic measures?', Melbourne University Law Review, vol. 50, no. 1.
+
+Commonwealth Ombudsman 2025a, Automated decision-making better practice guide, March, viewed 15 October 2026, https://www.ombudsman.gov.au/__data/assets/pdf_file/0025/317437/Automated-Decision-Making-Better-Practice-Guide-March-2025.pdf
+
+Commonwealth Ombudsman 2025b, Ombudsman uncovers adverse and systematic impacts of automation in TCF, media release, 6 August, viewed 15 October 2026, https://www.ombudsman.gov.au/__data/assets/pdf_file/0019/320752/Media-Release-Automation-in-the-Targeted-Compliance-Framework-when-the-law-is-changed-but-the-system-isnt.pdf
+
+Rotterdam School of Management 2025, Kafkaesque AI: shifting the burden of proof back to AI, RSM Discovery, 14 January, viewed 15 October 2026, https://rsm.nl/discovery/2025/shifting-the-burden-of-proof-back-to-ai/
+
+Rountree, D, Bloch, V, Guyot, I & Orazio, I 2026, Automated decision-making transparency: what APP entities need to know about the APP 1 amendments, Allens, 10 June, viewed 15 October 2026, https://www.allens.com.au/insights-news/insights/2026/06/automated-decision-making-transparency-what-app-entities-need-to-know-about-the-app-1-amendments/
