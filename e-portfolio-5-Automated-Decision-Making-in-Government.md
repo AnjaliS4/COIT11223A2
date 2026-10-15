@@ -13,8 +13,13 @@ Before and after:
 Prior to this unit I believed a computer decision would be more neutral and fair than a human decision, and that if a system followed its rules, the result would be acceptable. Now I see that a system can follow its rules perfectly and still break the law or hurt people, and that "it passed the technical requirements" is not the same as "it is ethical". This is the same lesson as in my Question 1 video.
 
 
-## Artefact 1: 
--- picture 
+## Artefact 1: The Ombudsman finds automated cancellations of income support were unlawful
+
+<img width="457" height="630" alt="image" src="https://github.com/user-attachments/assets/36c41348-eb2f-43d1-b50e-4a77e4993eb0" />
+
+<img width="490" height="703" alt="image" src="https://github.com/user-attachments/assets/f8f81d81-fa85-43d5-8a28-baae0f27a652" />
+
+
 -- link 
 ### Summary of the artefact
 This media release was published by the Commonwealth Ombudsman on 6 August 2025 about the Targeted Compliance Framework for job seekers. From April 2022 to July 2024, payments were cancelled automatically without the oversight the law required. The Ombudsman found these cancellations were not lawful. It made seven recommendations, which DEWR and Services Australia accepted (Commonwealth Ombudsman 2025b).
@@ -23,8 +28,7 @@ This media release was published by the Commonwealth Ombudsman on 6 August 2025 
 I selected this because it shows ADM harm still happening after Robodebt. The law had changed but the computer system had not, so the system broke the law. That links to clause 1.2.4(c) of the ACS Code, which requires me to know the relevant legislation and act in line with it (Australian Computer Society 2014, p. 7). It also fails the Kantian test, since vulnerable people were treated as a means to efficiency.
 
 
-
-## Artefact 2:
+## Artefact 2: The Automated Decision-making Better Practice Guide (March 2025) 
 -- picture 
 -- link 
 ### Summary of the artefact
@@ -34,7 +38,7 @@ The guide was updated in March 2025 by the Commonwealth Ombudsman, together with
 I picked this to see what good ADM in the Australian government is supposed to look like. When read alongside Artefact 1, there is a gap between guidance and practice. The checklist in the guide (pp. 48-59) is like a moral rule that Rule Utilitarianism would endorse, since if everyone followed it, harm would be reduced. It also matches my Question 1 answer, which was to test for bias before launch, not after.
 
 
-## Artefact 3: 
+## Artefact 3: Carney (2026) on access to justice after the Robodebt Royal Commission
 -- picture 
 -- link 
 ### Summary of the artefact
@@ -43,7 +47,7 @@ In this journal article, Terry Carney tests whether the reforms that followed th
 ### Justification on why I chose the artefact
 I selected a scholarly source to go beyond the news. It changed my view that "appeals fix the problem". Appeals rely on people having the time and strength to use them, so the less well-off may end up bearing the harm. That connects to Rawls's difference principle. It also connects to ACS clause 1.2.1, because protecting the public interest means preventing harm, not only fixing it for individuals.
 
-## Artedact 4: 
+## Artedact 4: New Privacy Act rules on ADM start 10 December 2026
 -- picture 
 -- link 
 ### Summary of the artefact
@@ -52,7 +56,7 @@ This article was published by Allens on 10 June 2026 and outlines the changes in
 ### Justification on why I chose the artefact
 I picked this because it is current and shows the law catching up with ADM. I am a cybersecurity student, and I might be the one who has to document these systems. It relates to ACS clause 1.2.1(g) on privacy (Australian Computer Society 2014, p. 6). It also raises a Kantian question: is it enough to tell people if they have no right to challenge?
 
-## Artefact 5: 
+## Artefact 5: The Dutch childcare benefits scandal and the burden of proof
 -- picture 
 -- link 
 ### Summary of the artefact
@@ -61,8 +65,7 @@ This article was published on 14 January 2025 by the Rotterdam School of Managem
 ### Justification on why I chose the artefact
 I selected the Netherlands as my overseas example because the pattern seemed familiar from Robodebt: the automated system accused people, and they had to prove their innocence. Its suggestion of bias testing is the same as my decision in Question 1. It is also a clear case of using people as a means, which Kantianism opposes, and of a failure of the ACS public interest value.
 
-
-## Artefact 6: 
+## Artefact 6:Amnesty International on Denmark's automated welfare state
 -- picture 
 -- link 
 
