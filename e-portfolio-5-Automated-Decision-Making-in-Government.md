@@ -17,6 +17,8 @@ Prior to this unit I believed a computer decision would be more neutral and fair
 
 <img width="457" height="630" alt="image" src="https://github.com/user-attachments/assets/36c41348-eb2f-43d1-b50e-4a77e4993eb0" />
 
+Figure 1: Commonwealth Ombudsman media release on automation in the Targeted Compliance Framework (Commonwealth Ombudsman 2025b).
+
 <img width="490" height="703" alt="image" src="https://github.com/user-attachments/assets/f8f81d81-fa85-43d5-8a28-baae0f27a652" />
 
 [Automation in the trageted compliance framework when the law is changed but the system isnt](https://www.ombudsman.gov.au/__data/assets/pdf_file/0019/320752/Media-Release-Automation-in-the-Targeted-Compliance-Framework-when-the-law-is-changed-but-the-system-isnt.pdf)
@@ -32,6 +34,8 @@ I selected this because it shows ADM harm still happening after Robodebt. The la
 
 <img width="516" height="760" alt="image" src="https://github.com/user-attachments/assets/fd28990b-5a73-4d5e-bd9b-4b221669fd62" />
 
+Figure 2: Cover of the Automated Decision-Making Better Practice Guide (Commonwealth Ombudsman 2025a).
+
 
 [Decision making better oractice guide](https://www.ombudsman.gov.au/__data/assets/pdf_file/0025/317437/Automated-Decision-Making-Better-Practice-Guide-March-2025.pdf)
 ### Summary of the artefact
@@ -44,8 +48,10 @@ I picked this to see what good ADM in the Australian government is supposed to l
 ## Artefact 3: Carney (2026) on access to justice after the Robodebt Royal Commission
 
 <img width="453" height="648" alt="image" src="https://github.com/user-attachments/assets/84b3d5a5-3597-481a-8079-f62b27689691" />
+Figure 3: First page of Carney (2026) in the Melbourne University Law Review.
 
 <img width="437" height="528" alt="image" src="https://github.com/user-attachments/assets/5b44607d-1f5b-433f-8015-f2614cb38110" />
+
 
 
 [Carney (2026) on access to justice after the Robodebt Royal Commission](https://law.unimelb.edu.au/__data/assets/pdf_file/0006/5630883/Carney-MULR-10.pdf)
@@ -55,9 +61,10 @@ In this journal article, Terry Carney tests whether the reforms that followed th
 ### Justification on why I chose the artefact
 I selected a scholarly source to go beyond the news. It changed my view that "appeals fix the problem". Appeals rely on people having the time and strength to use them, so the less well-off may end up bearing the harm. That connects to Rawls's difference principle. It also connects to ACS clause 1.2.1, because protecting the public interest means preventing harm, not only fixing it for individuals.
 
-## Artedact 4: New Privacy Act rules on ADM start 10 December 2026
+## Artefact 4: New Privacy Act rules on ADM start 10 December 2026
 
  <img width="1753" height="493" alt="image" src="https://github.com/user-attachments/assets/a640f243-8ef0-4150-94f9-e39b89c0f59a" />
+Figure 4: Allens article on the new ADM transparency rules (Rountree et al. 2026).
 
  <img width="1116" height="492" alt="image" src="https://github.com/user-attachments/assets/1de4c426-b2a4-4ea5-a439-27ee12349c4e" />
 
@@ -75,7 +82,7 @@ I picked this because it is current and shows the law catching up with ADM. I am
 
 <img width="1116" height="797" alt="image" src="https://github.com/user-attachments/assets/a28c3897-3784-420f-b6f5-29a7fb55d784" />
 
-
+Figure 5: RSM Discovery article "Shifting the burden of proof back to AI" (Rotterdam School of Management 2025).
 
 [RSM Discovery article](https://rsm.nl/discovery/2025/shifting-the-burden-of-proof-back-to-ai/)
 ### Summary of the artefact
@@ -88,6 +95,7 @@ I selected the Netherlands as my overseas example because the pattern seemed fam
 
 <img width="1177" height="816" alt="image" src="https://github.com/user-attachments/assets/678c3c92-78fe-41a3-a973-57935731ddc3" />
 
+Figure 6: Amnesty International press release on Denmark's welfare fraud algorithms (Amnesty International 2024).
 
 [Denmark's welfare fraud algorithms](https://www.amnestyusa.org/press-releases/denmark-eu-ai-powered-welfare-system-fuels-mass-surveillance-and-risks-discriminating-against-marginalized-groups/)
 
